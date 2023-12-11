@@ -1,0 +1,1 @@
+print("congrat NTI I hope u all the best")
